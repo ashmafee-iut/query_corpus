@@ -1,0 +1,44 @@
+Bar chart of number of cars from each origin
+Bar chart of average acceleration for cars with each number of cylinders in each place of origin. Color by origin. Separate into multiple charts by number of cylinders.
+Scatterplot of displacement vs mpg. Color by origin.
+Bar chart of cylinders versus average mpg
+Show number of cars from each country
+Graph to show the acceleration for cars from different countries segregated based on number of cylinders
+Visualize the distribution of models by weight
+Visualize the general trend of car model weights over the years
+Plot count of models by grouped by origin
+Visualize distribution of models by number of cyclinders grouped by origin
+Visualize average accelaration based on number of cyclinders a model has summed across different origins
+Bar graph to show number of cars from different Origins
+Stacked bar chart to show number of cylinders on X Axis and count of cars segregated country wise on Y Axis
+plot displacement by mpg', 'color by origin
+Bar graph to show number of cylinders on X Axis and Average MPG on Y Axis
+Scatter plot to show horsepower on X axis and Acceleration on Y Axis
+Plot average MPG by number of cylinders
+create a stacked bar chart of the count of models by cylinder, group by origin
+create a line graph of average horsepower by year grouped by origin
+show how horsepower varies each year by origin
+Histogram of weight, bin width of 500, min x axis 1500, max x axis 5500
+Bar chart, x axis origin, y axis count of rows
+Plot Year by AVG Weight
+Coloring by Orign, Plot Displacement by MPG
+show cars produced by diiferent origin in various cylinders
+Bar chart, x axis cylinders, y axis mean MPG
+Origin
+Visualize mpg
+Show mpg across origins
+Weight and acceleration
+Create a visualization with miles per gallon and horsepower
+Displacement Cylinders Acceleration
+Show me acceleration and horsepower across origins
+Visualize car weight and number of cylinders over the years
+Create a chart showing mpg across origin over years
+create a histogram of mpg
+visualize acceleration as a boxplot
+show origin as a bar chart
+visualize hp and displacement as a scatterplot
+show a linechart of horsepower over the years
+show a scatterplot of acceleration and mpg across origins
+show an area chart of how acceleration has evolved over the years across origin
+visualize origin and cylinders as a barchart
+visualize origin and cylinders as a scatter plot

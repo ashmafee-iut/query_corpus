@@ -1,0 +1,25 @@
+draw a scatterplot of sales vs profit where sales is on the x-axis and points are colored by region
+draw a bar chart of count by sub-category
+by ship mode, draw a bar chart of average profit by split by segment
+make a stacked bar chart summing profit across region, where profit is colored by ship status
+make a bar chart of avgerage profit by state, with state on x axis.
+how much is the profit for sales for each
+What is the average profit of different segments on the ship modes of transport
+What is the average profit of each country
+summarize the total profit by region using by a stacked bar plot
+Scatterplot profit vs sales with color indicating geographic region of the U.S.
+Scatterplot of sales vs. profit
+For each data element, draw a circle at (its sales, profit) with the proper color by the region
+Bar Graph AVG(Profit) by State
+Scatterplot Region X=Sales Y=Profit
+Stacked Barchart Ship Status X=Region Y=SUM(Profit)
+Bar Chart Count by Sub-Category
+Create bar chart based on state and AVG(Profit)
+show a line chart of semi sales by category
+Ship Mode Bar Chart AVG(Profit) by Segment)
+Show a bar graph by region showing the various ship status
+Show correlation between sales and profit
+show profit vs sales as scatter plot', 'use a different color for each region
+show the average profit by state
+Can you create a graph showing sales and profit by region?
+Show me by region sales and profits for all products bought by Gary Hansen

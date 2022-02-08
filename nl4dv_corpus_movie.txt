@@ -1,0 +1,40 @@
+show me a scatter plot of budget and gross for romantic comedy movies released between 1990 and 2000
+show me the budget and gross for adventure movies released since 2000/1/1 as a scatterplot
+what was the total gross of the Harry Potter franchise as a barchart?
+show me distribution of gross as a strip plot
+visualize the distribution of budget as a histogram
+total budget across genres as a piechart
+show me an area chart of how comedy movies evolved over the years
+create a stripplot showing average gross across genres
+average production budget of different movie types over the years as a linechart
+show movies whose production budget equals 200M as a barchart
+show me budget, gross, running time, and type for romantic comedy movies released between 1990 and 2000
+plot worldwide gross over release year split by genre
+gross across genres regarding content rating
+budget vs gross income across movie genres
+Scatterplot of Worldwide Gross by Production Budget with different colors by major genre
+Line graph of average Production Budget across Release Year
+Line graph of total Worldwide Gross by Major Genre, across Release Year
+Scatterplot of Rotten Tomatoes Rating by IMDB Rating
+Bar chart of total worldwide gross by major genre, by content rating
+Count of movies by Creative Type
+Bar chart of average worldwide gross by major genre
+give me a bar chart of worldwide gross sum by major genres stacked by content ratings
+What was the average production budget of movies by year?
+Plot IMDB rating against Rotten Tomatoes rating.
+I want to see trend of production budget by the release year
+plot average worldwide growth over major genre
+Stack bar chart of SUM(worldwide gross) vs. movie genre based on content rating
+counts of movies by creative type
+Rating of movies in IMBD and Rotten Tomatoes
+how many films of each creative type
+Relation between worldwide gross and production budget for each major genre
+average production budget by year, 1995 to 2009
+give me the number of movies by running time
+show me average production budget over release year
+plot average production budget over release year
+Show the total gross of movies by creative type as a piechart.
+stacked bar of genre and worldwide gross colored by content rating
+give me line charts of worldwide gross over year by major genres
+what's the production budget for movies in different years?
+histogram of running time
